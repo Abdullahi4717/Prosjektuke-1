@@ -8,14 +8,12 @@ Teknologi, Utsyr og språk
 
 Html / Css - Frontend 
 
-Python - backend
-
 Figma - Skisse av design
 
 
 Hvordan jeg viser kompentanse i fagene
 Utvikling:
-Skrive kode i Python, HTML og CSS
+Skrive kode i HTML og CSS
 Lager en fungerende nettside med database
 
 Drift:
@@ -35,7 +33,6 @@ Vise hvor produktene, handlekurven og navigasjon skal vøre
 Frontend:
 
 Lage Index.html med produktvisning
-Lage Cart.html for handlekurv
 Lage style.css for utseende
 
 Backend:
@@ -47,3 +44,4 @@ Testing og dokumentasjon:
 
 Teste at alt fungerer sammen
 rette eventuelle feil
+
