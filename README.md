@@ -14,7 +14,7 @@ Figma - Skisse av design
 Hvordan jeg viser kompentanse i fagene
 Utvikling:
 Skrive kode i HTML og CSS
-Lager en fungerende nettside med database
+Lager en fungerende nettside
 
 Drift:
 Viser hvordan flask serveren setter opp og kjøres
