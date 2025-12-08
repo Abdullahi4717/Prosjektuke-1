@@ -28,7 +28,7 @@ Oppgaver i proskjektet:
 Skisse:
 
 Lage designskisse i figma
-Vise hvor produktene, handlekurven og navigasjon skal vøre
+Vise hvor produktene, handlekurven og navigasjon skal være
 
 Frontend:
 
